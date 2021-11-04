@@ -153,14 +153,7 @@ public class WordFrequency {
             System.out.println(output);
             fileOut.close();
 
-//            consoleOutput.println("Total word count: " + totalWordCount);
-//            consoleOutput.println("Last sentence on the file that contains the most used word: ");
-//            consoleOutput.println(testResult);
-//            consoleOutput.println("Top 10 highest frequency words sorted in descending order of their frequency:");
-//            for(int i=0;i<output.size();i++){
-//                consoleOutput.println(output.get(i));
-//            }
-//            //System.setOut(consoleOutput);
+
 
             return output;
 
