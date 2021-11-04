@@ -10,7 +10,7 @@ public class WordFrequency {
     public static void main(String args[]) {
 
         String fileName = "Coding Challenge.txt";
-
+        System.out.println("Output is printed to a file");
         //A separate method is method created and file name and number of words is passed to it
         //so that if we wanted to search any other number of high frequency elements, we can pass that in k
 
