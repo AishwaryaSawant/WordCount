@@ -1,0 +1,8 @@
+Most used word: the
+Total word count: 350
+
+Last sentence on the file that contains the most used word: 
+closed formats are opague only the seller is able to tell how much each customer is willing to pay for an object.
+
+Top 10 highest frequency words sorted in descending order of their frequency:
+[the, a, is, auctions, for, of, in, object, to, an]
